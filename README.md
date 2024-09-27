@@ -7,10 +7,14 @@ This project is a **Weather Forecast Dashboard** developed using **Streamlit**, 
 - **Forecast Duration**: A slider allows users to select the number of days (1 to 5) for which they want to view the weather forecast.
 - **Data Selection**: Users can choose between viewing temperature data or sky conditions for the selected days.
 
+![Untitled design(10)](https://github.com/user-attachments/assets/c0de3b37-a81b-4548-b679-c60ceea4e8b8)
+
 ## How to Use
 1. **Enter the City**: Type the name of the city you want to check the weather for.
 2. **Select Forecast Days**: Use the slider to choose the number of days you want to see in the forecast.
 3. **Choose Data Type**: Select whether you want to view the temperature forecast or the sky conditions.
+
+   ![Untitled design(11)](https://github.com/user-attachments/assets/e1856a62-8497-4568-9ed9-654d7daf3117)
 
 ## Deployment
 The application is deployed on Streamlit Cloud. You can access the live version [here](https://arianesouza-weather-api.streamlit.app/).

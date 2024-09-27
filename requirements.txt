@@ -1,0 +1,4 @@
+plotly==5.10.0  # Example version, your version may differ
+streamlit==1.35.0
+requests==2.32.3
+# Add other dependencies here
